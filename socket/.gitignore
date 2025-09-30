@@ -1,0 +1,18 @@
+# Dependencies
+/node_modules
+
+# lock files
+package-lock.json
+npm-shrinkwrap.json
+yarn.lock
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+# Runtime data
+/npm-debug.log*
+.eslintcache
+.stylelintcache
+
+# Build/Dist folders
+/dist
+/build
